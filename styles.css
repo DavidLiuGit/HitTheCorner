@@ -4,10 +4,13 @@ body {
 }
 
 div.canvas-container {
-	border: 1px solid #666;
-	margin: 1em;
+	/* border: 1px solid #666; */
+	/* margin: 1em; */
 }
 
 canvas {
-	margin: 0 auto;
+	margin: 2vw;
+	box-sizing: border-box;
+	width: 95vw;		
+	border: 1px solid #666;
 }
