@@ -1,0 +1,9 @@
+body {
+	font-size: 16pt;
+	font-family: 'Open Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div.canvas-container {
+	border: 1px solid #666;
+	margin: 1em;
+}
